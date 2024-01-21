@@ -1,0 +1,32 @@
+.picture-style {
+  width: 120px;
+  height: 180px;
+  margin-left: 20px;
+}
+
+.heading-style {
+  color: #fff;
+  font-size: 35px;
+  margin-left: 150px;
+  margin-top: -193px;
+  margin-bottom: 150px;
+} 
+
+.genre-style {
+  color: grey;
+  font-size: 20px;
+  margin-left: 152px;
+  margin-top: -150px;
+  margin-bottom: 100px;
+}
+
+.description-style {
+  color: aliceblue;
+  margin-left: 152px;
+  margin-top: -80px;
+  margin-bottom: 100px;
+}
+
+.card-style {
+  margin-top: 250px;
+}

@@ -1,0 +1,27 @@
+.movie-background {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.movie-search {
+  background-color: #1E283E;
+  min-height: 80vh;
+  width: 80vh;
+  border-radius: 15px;
+}
+
+.movie-inputs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 200px;
+}
+
+.movie-pictures {
+  display: flex;
+}

@@ -1,0 +1,17 @@
+.genre-selecting-style {
+  background-color: #FFB727;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  min-width: 140px;
+  font-size: 15px;
+  font-weight: 600;
+  margin-left: 20px;
+  margin-bottom: 50px;
+}
+
+.movie-genre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
